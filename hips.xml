@@ -29,3 +29,15 @@
     <link>http://podcastdenec.simplesite.com</link>
     <itunes:image href="https://gabou14.github.io/Hips-podcast/trousse.png" />
     <item>
+<itunes:season>1</itunes:season>
+      <author>Hips</author>
+      <itunes:author>Hips VS.</itunes:author>
+      <title>Episode 1</title>
+      <pubDate>Sat, 15 Oct 2022 12:00:00 GMT</pubDate>
+      <enclosure url="https://gabou14.github.io/Hips-podcast/HipsPodcast1.mp3" type="audio/mpeg" length="34216300" />
+      <itunes:duration>01:31</itunes:duration>
+      <guid isPermaLink="false">cepod00</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>Petite visite à Ricard...</description>
+    </item>
+    <item>
