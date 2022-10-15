@@ -29,7 +29,7 @@
     <link>http://podcastdenec.simplesite.com</link>
     <itunes:image href="https://gabou14.github.io/Hips-podcast/trousse.png" />
     <item>
-<itunes:season>1</itunes:season>
+      <itunes:season>1</itunes:season>
       <author>Hips</author>
       <itunes:author>Hips VS.</itunes:author>
       <title>Episode 1</title>
@@ -41,3 +41,4 @@
       <description>Petite visite à Ricard...</description>
     </item>
  </channel>
+</rss>
