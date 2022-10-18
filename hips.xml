@@ -40,5 +40,17 @@
       <itunes:explicit>no</itunes:explicit>
       <description>Petite visite à Ricard...</description>
     </item>
+        <item>
+      <itunes:season>1</itunes:season>
+      <author>Hips</author>
+      <itunes:author>Hips VS.</itunes:author>
+      <title>Episode 2</title>
+      <pubDate>Tue, 18 Oct 2022 17:24:00 GMT</pubDate>
+      <enclosure url="https://gabou14.github.io/Hips-podcast/HipsPodcast2.mp3" type="audio/mpeg" length="34216300" />
+      <itunes:duration>01:31</itunes:duration>
+      <guid isPermaLink="false">cepod00</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>Hips! Nos aventures continuent.</description>
+    </item>
  </channel>
 </rss>
