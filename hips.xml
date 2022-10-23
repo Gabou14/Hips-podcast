@@ -52,5 +52,17 @@
       <itunes:explicit>no</itunes:explicit>
       <description>Hips! Nos aventures continuent.</description>
     </item>
+         <item>
+      <itunes:season>2</itunes:season>
+      <author>Hips</author>
+      <itunes:author>Hips VS.</itunes:author>
+      <title>(HS) Episode 1</title>
+      <pubDate>Tue, 18 Oct 2022 17:24:00 GMT</pubDate>
+      <enclosure url="https://gabou14.github.io/Hips-podcast/hips.mp3" type="audio/mpeg" length="34216300" />
+      <itunes:duration>02:10</itunes:duration>
+      <guid isPermaLink="false">cepod00</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>On répond à vos questions. Au programme : "Pourquoi je m'appelles Hips" et "Comment on fait pour garder la santé ?"</description>
+    </item>
  </channel>
 </rss>
